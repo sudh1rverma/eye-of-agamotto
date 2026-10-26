@@ -30,14 +30,6 @@ python main.py
 
 Activate the virtual environment with `source .venv/bin/activate` before running the app again in a new terminal.
 
-## Run the checks
-
-The project includes small automated checks for the system-metric reader. From the project folder, with the virtual environment active, run:
-
-```bash
-python -m unittest discover -s tests -v
-```
-
 ## Project layout
 
 ```text
